@@ -61,9 +61,10 @@ Repository contains a shell script, `build_static.sh`, that builds a
 statically linked copy of this exporter in an Alpine Linux based
 container.
 
-
+```
 With the --libvirt.export-nova-metadata flag, it will export the following additional OpenStack-specific labels for every domain:
 
 name
 flavor
 project_name
+```
