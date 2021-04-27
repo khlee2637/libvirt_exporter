@@ -67,4 +67,7 @@ With the --libvirt.export-nova-metadata flag, it will export the following addit
 name
 flavor
 project_name
+
+domain="instance-00001", flavor="8vCPU32GBRAMDISK100GB ", name="openstckvmname", project_name="default"...
+
 ```
